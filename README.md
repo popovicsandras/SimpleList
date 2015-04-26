@@ -6,7 +6,6 @@ Simple List application without the help of any fancy frontend framework.
 ## Install:
 
     npm install
-    bower install
 
 ## Test
 
